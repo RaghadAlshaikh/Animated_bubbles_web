@@ -2,7 +2,7 @@
 
 Floating bubbles with different sizes and durations.
 
-#### Tech Stack 𝙈𝙮 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠
+#### Tech Stack
 
 | 𝗛𝗧𝗠𝗟5  | 𝗖𝗦𝗦3 | VS 𝗖𝗼𝗱𝗲 |
 | ------------- | ------------- | ------------- |
