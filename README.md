@@ -10,7 +10,7 @@ Floating bubbles with different sizes and durations.
 
 ## Outcome
 
-![alt text](https://github.com/RaghadAlshaikh/Animated_bubbles_web/blob/main/images/Reults.webm?raw=true)
+https://github.com/RaghadAlshaikh/Animated_bubbles_web/blob/main/images/Reults.webm
 
 ## Credit
 
